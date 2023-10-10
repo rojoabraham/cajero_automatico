@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(0, 255, 255, 0.279);
+}
+
+.login{
+    padding-top: 200px; 
+}
+
+.login h1 {
+    margin-bottom: 3%;
+}
+
+#btnLogin {
+    width: 10%;
+}
